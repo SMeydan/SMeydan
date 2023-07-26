@@ -29,7 +29,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=tokyonight" alt="John Doe's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SMeydan&show_icons=true&theme=tokyonight" alt="Sudenur Meydan's GitHub Stats" />
 </p>
 
 ## 🗂️ Highlight Projects
