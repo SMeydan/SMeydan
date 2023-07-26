@@ -11,6 +11,7 @@
 - 📫 How to reach me:
     - [LinkedIn - Sudenur Meydan](https://www.linkedin.com/in/sudenur-meydan-685964214/)
     - Email: sudenurmeydan01@gmail.com
+    
 - 🏆 Certifications: (https://drive.google.com/drive/folders/1heyWk6KJzfSmkK8703H5R03zfTAYH0v9?usp=drive_link)
 
 ## 🔧 Technologies & Tools
