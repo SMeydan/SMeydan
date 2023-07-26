@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="[https://drive.google.com/file/d/1Kb_OAhWE_sUZkHjcjQ7TEpgTAxSa9Xli/view?usp=drive_link](https://drive.google.com/file/d/1Kb_OAhWE_sUZkHjcjQ7TEpgTAxSa9Xli/view?usp=sharing)"/>
+![1](https://github.com/SMeydan/SMeydan/assets/74561611/6f89b24a-1479-4273-881a-d2c944ef2d85)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
