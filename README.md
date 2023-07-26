@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://drive.google.com/file/d/1Kb_OAhWE_sUZkHjcjQ7TEpgTAxSa9Xli/view?usp=drive_link"
+<img src="https://drive.google.com/file/d/1Kb_OAhWE_sUZkHjcjQ7TEpgTAxSa9Xli/view?usp=drive_link"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
