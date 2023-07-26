@@ -32,12 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=tokyonight" alt="John Doe's GitHub Stats" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johndoe&theme=nord" alt="John Doe's GitHub Trophies" />
-</p>
-
 ## 🗂️ Highlight Projects
 
 - [ASP.NET Core Web Application](https://github.com/johndoe/aspnetcore-app)
