@@ -1,14 +1,17 @@
 <p align="center">
   <img src="https://github.com/SMeydan/SMeydan/assets/74561611/6f89b24a-1479-4273-881a-d2c944ef2d85" alt="Your description" />
 </p>
-# Hi, I'm [John Doe](https://johndoe.com) 👋
+## Hi, I'm Sudenur Meydan (https://sudenurmeydan.com.tr) 👋
 
-## Full Stack Developer | Lifelong Learner | Tech Enthusiast
+## Full Stack Developer 
 
 - 🔭 I’m currently working on a **web application using ASP.NET Core and React**
 - 🌱 I’m currently learning **FastAPI, Arduino and enhancing my C/C#/Python skills**
 - 💬 Ask me about **ASP.NET Core, React, Python, FastAPI, HTML, CSS, Arduino, C, C#, Canva, and Figma**
-- 📫 How to reach me: [Twitter - @JohnDoe](https://twitter.com/JohnDoe)
+- 📫 How to reach me:
+    - [LinkedIn - Sudenur Meydan](https://www.linkedin.com/in/sudenur-meydan-685964214/)
+    - Email: sudenurmeydan01@gmail.com
+- 🏆 Certifications: (https://drive.google.com/drive/folders/1heyWk6KJzfSmkK8703H5R03zfTAYH0v9?usp=drive_link)
 
 ## 🔧 Technologies & Tools
 
