@@ -39,8 +39,8 @@
 
 ## 🗂️ Highlight Projects
 
-- [ASP.NET Core Web Application](https://github.com/johndoe/aspnetcore-app)
-- [Python Data Analysis](https://github.com/johndoe/python-data-analysis)
-- [FastAPI API Development](https://github.com/johndoe/fastapi-app)
-- [React Web Application](https://github.com/johndoe/react-app)
-- [Arduino Project](https://github.com/johndoe/arduino-project)
+- [ASP.NET Core Web Application]
+- [Python Data Analysis]
+- [FastAPI API Development]
+- [React Web Application]
+- [Arduino Project]
