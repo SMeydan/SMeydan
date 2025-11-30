@@ -1,14 +1,43 @@
+# Sudenur Meydan  
+### Software Engineer • Backend & AI • Curious Human  
+🔗 https://sudenurmeydan.com
 
-## Hi, I'm Sudenur Meydan (https://sudenurmeydan.com.tr) 👋
+---
 
-## Full Stack Developer 
+## 👋 Hi!
 
-- 🔭 I’m currently working on a **web application using ASP.NET Core and React**
-- 🌱 I’m currently learning **FastAPI, Arduino and enhancing my C/C#/Python skills**
-- 💬 Ask me about **ASP.NET Core, React, Python, FastAPI, HTML, CSS, Arduino, C, C#, Canva, and Figma**
-- 📫 How to reach me:
-    - [LinkedIn - Sudenur Meydan](https://www.linkedin.com/in/sudenur-meydan-685964214/)
-    - Email: sudenurmeydan01@gmail.com
+I’m Sudenur, a software engineer who genuinely enjoys building things — sometimes a backend service, sometimes a small AI tool, sometimes just an experiment to see if it works.  
+I like solving real problems, learning new areas quickly, and turning ideas into something that actually runs.
+
+Recently I’ve been working on:
+- backend systems (FastAPI, ASP.NET Core)
+- data-heavy projects
+- cloud deployments
+- AI features that they are actually useful
+---
+
+## Technologies I Use
+
+Python • FastAPI • C# • ASP.NET Core • PostgreSQL • Docker • GCP • AWS 
+(And whatever else the project needs.)
+
+---
+
+## Reach Me
+
+- Website: https://sudenurmeydan.com
+- LinkedIn: https://linkedin.com/in/sudenur-meydan
+- Medium: 
+- Email: sudenurmeydan01@gmail.com
+- X:
+
+---
+
+## ⭐ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SMeydan&show_icons=true&theme=tokyonight" />
+</p>
     
 - 🏆 Certifications: (https://drive.google.com/drive/folders/1heyWk6KJzfSmkK8703H5R03zfTAYH0v9?usp=drive_link)
 
@@ -28,17 +57,3 @@
 ![](https://img.shields.io/badge/Tool-Canva-informational?style=flat&logo=canva&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&logoColor=white&color=blue)
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SMeydan&show_icons=true&theme=tokyonight" alt="Sudenur Meydan's GitHub Stats" />
-</p>
-
-## 🗂️ Highlight Projects
-
-- [ASP.NET Core Web Application]
-- [Python Data Analysis]
-- [FastAPI API Development]
-- [React Web Application]
-- [Arduino Project]
