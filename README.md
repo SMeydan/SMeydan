@@ -17,6 +17,8 @@ Recently I’ve been working on:
 - AI features that they are actually useful
 ---
 
+![alt text](https://media.tenor.com/NoxXhCo1EU4AAAAM/figura-backend.gif)
+
 ## Technologies I Use
 
 Python • FastAPI • C# • ASP.NET Core • PostgreSQL • Docker • GCP • AWS 
