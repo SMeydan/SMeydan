@@ -17,8 +17,6 @@ Recently I’ve been working on:
 - AI features that they are actually useful
 ---
 
-![alt text](https://media.tenor.com/NoxXhCo1EU4AAAAM/figura-backend.gif)
-
 ## Technologies I Use
 
 Python • FastAPI • C# • ASP.NET Core • PostgreSQL • Docker • GCP • AWS 
@@ -36,12 +34,7 @@ Python • FastAPI • C# • ASP.NET Core • PostgreSQL • Docker • GCP •
 
 ---
 
-## ⭐ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SMeydan&show_icons=true&theme=tokyonight" />
-</p>
-    
 - 🏆 Certifications: (https://drive.google.com/drive/folders/1heyWk6KJzfSmkK8703H5R03zfTAYH0v9?usp=drive_link)
 
 ## 🔧 Technologies & Tools
