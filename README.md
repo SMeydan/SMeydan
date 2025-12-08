@@ -5,7 +5,8 @@
 ---
 
 ## Hi!
-![alt text](https://tenor.com/en-GB/view/grrr-rawr-gif-16161260235683800785)
+![alt text](https://media.tenor.com/4EhUju6UJtEAAAAj/grrr-rawr.gif)
+
 I’m Sudenur, a software engineer who genuinely enjoys building things — sometimes a backend service, sometimes a small AI tool, sometimes just an experiment to see if it works.  
 I like solving real problems, learning new areas quickly, and turning ideas into something that actually runs.
 
